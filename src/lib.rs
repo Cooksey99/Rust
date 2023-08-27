@@ -16,6 +16,7 @@ pub mod number_theory;
 pub mod searching;
 pub mod sorting;
 pub mod string;
+mod merkle;
 
 #[cfg(test)]
 mod tests {
